@@ -1,2 +1,3 @@
 # Differential-Games-in-Economic
-# Differential-Games-in-Economic
+
+Homework and Solution by Gromova
